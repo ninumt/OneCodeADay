@@ -1,5 +1,7 @@
 # OneCodeADay
-The main intention of this group is create a coding habit and to make oneself do atleast one problem a day. We can encorage one another by sharing our code everday and can look at others solution too.
+The main intention of this group is create a coding habit and to make oneself do atleast one problem a day. We can encourage one another by sharing our code everday and can look at others solution too.Pls share screenshots in whatsapp too.
+
+If you are reading about any new topic try using it in simple coding problem.
 
 Users have the freedom to choose any language and any coding problem. (Can take questions from leetcode, hackerrank or google)
 The first person to complete 100 days of code gets a reward.
@@ -14,7 +16,8 @@ Solution:
 
 ********************************************************************************
 Day 2:
-Problem 1: - Reverse a string. Note: DoNot change problem no(i.e Problem 1) in Day 2 if you are still working on it.
+Problem 1: - Reverse a string. Note: DO NOT change problem no(i.e Problem 1) in Day 2
+if you are still working on it.
 Solution:
 
 
