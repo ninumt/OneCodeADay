@@ -8,13 +8,13 @@ If you are working on tougher problem and you are unable to finish it pls fell t
 
 Pls use this Format: 
 Day 1:
-Problem 1 : Reverse a string<Suppose its hard Problem>
+Problem 1 : Reverse a string <Suppose its hard Problem>
 Solution:
 
 
 ********************************************************************************
 Day 2:
-Problem 1: - Note dont change problem no(i.e Problem 1) in Day 2 if you are still working on it.
+Problem 1: - Reverse a string. Note: DoNot change problem no(i.e Problem 1) in Day 2 if you are still working on it.
 Solution:
 
 
