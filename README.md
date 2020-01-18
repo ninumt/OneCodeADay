@@ -10,7 +10,7 @@ If you are working on tougher problem and you are unable to finish it pls fell t
 
 Pls use this Format: 
 Day 1:
-Problem 1 : Reverse a string <Suppose its hard Problem>
+Problem 1 : Reverse a string - Suppose its hard Problem
 Solution:
 
 
